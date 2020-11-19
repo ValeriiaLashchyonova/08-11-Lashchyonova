@@ -20,16 +20,16 @@ body {
     font-size: 40px;
 }
 .blue {
-    background-color: #165fb3;
+    background: linear-gradient(to bottom, rgba(21,64,210,1) 18%, rgba(9,95,121,1) 46%,rgba(48,190,37,1) 100%);
 }
 .green {
-    background-color: #16b316;
+    background: linear-gradient(to bottom, rgba(48,190,37,1) 18%, rgba(117,121,9,1) 53%, rgba(161,44,52,1) 100%);
 }
 .red {
-    background-color: #e21f19;
+    background: linear-gradient(to bottom, rgba(161,44,52,1) 16%, rgba(179,112,41,1) 57%, rgba(195,65,160,1) 100%);
 }
 .purple {
-    background-color: #a5359f;
+    background: linear-gradient(to bottom, rgba(195,65,160,1) 17%, rgba(221,81,211,1) 57%, rgba(231,128,203,1) 100%);
 }
 .animation {
     transition: 500ms ease;
